@@ -11,5 +11,5 @@ I am currently a Ph.D. student at Xi’an Jiaotong University (XJTU), under the 
 # Publications
 
 - [Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf).[[Code]](https://github.com/wu-dd/EMMA)
-  - **Rui Zhao**, Bin Shi, Jianfei Ruan, Tianze Pan, Bo Dong*.
+  - **Rui Zhao**, Bin Shi, Jianfei Ruan, Tianze Pan, Bo Dong.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, 2024.
