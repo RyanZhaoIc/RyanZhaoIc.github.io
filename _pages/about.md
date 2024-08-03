@@ -10,6 +10,6 @@ I am currently a Ph.D. student at Xi’an Jiaotong University (XJTU), under the 
 
 # Publications
 
-- [Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Estimating_Noisy_Class_Posterior_with_Part-level_Labels_for_Noisy_Label_CVPR_2024_paper.html).[[Code]](https://github.com/wu-dd/EMMA)
+- [Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Estimating_Noisy_Class_Posterior_with_Part-level_Labels_for_Noisy_Label_CVPR_2024_paper.html).[[Code]](https://github.com/RyanZhaoIc/PLM)
   - **Rui Zhao**, Bin Shi, Jianfei Ruan, Tianze Pan, Bo Dong.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, 2024.
