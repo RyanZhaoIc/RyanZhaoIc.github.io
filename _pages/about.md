@@ -10,7 +10,7 @@ redirect_from:
 
 # Publications
 
-- [Mitigating Instance Entanglement in Instance Dependent Partial Label Learning.](https://arxiv.org/abs/2603.04825)[Highlight].[[Code]](https://github.com/RyanZhaoIc/CAD)
+- [Mitigating Instance Entanglement in Instance Dependent Partial Label Learning.](https://arxiv.org/abs/2603.04825)[<span style="color: red;">[Highlight]</span>].[[Code]](https://github.com/RyanZhaoIc/CAD)
   - Rui Zhao, Bin Shi, Kai Sun, Bo Dong.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'26**)*, 2026.
 
