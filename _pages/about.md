@@ -10,7 +10,7 @@ redirect_from:
 
 # Publications
 
-- [Training a label-noise-resistant gnn with reduced complexity.](https://arxiv.org/abs/2411.11020).[[Code]](https://github.com/RyanZhaoIc/LEGNN)
+- [Training a label-noise-resistant gnn with reduced complexity](https://arxiv.org/abs/2411.11020).[[Code]](https://github.com/RyanZhaoIc/LEGNN)
   - Rui Zhao, Bin Shi, Zhiming Liang, Jianfei Ruan, Bo Dong, Lu Lin.
   - *Pattern Recognition*, 2026.
 
