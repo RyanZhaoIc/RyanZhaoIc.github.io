@@ -10,7 +10,11 @@ redirect_from:
 
 # Publications
 
-- [Mitigating Instance Entanglement in Instance Dependent Partial Label Learning.](https://arxiv.org/abs/2603.04825)[<span style="color: red;">Highlight</span>].[[Code]](https://github.com/RyanZhaoIc/CAD)
+- [Training a label-noise-resistant gnn with reduced complexity.](https://arxiv.org/abs/2411.11020).[[Code]](https://github.com/RyanZhaoIc/LEGNN)
+  - Rui Zhao, Bin Shi, Zhiming Liang, Jianfei Ruan, Bo Dong, Lu Lin.
+  - *Pattern Recognition*, 2026.
+
+- [Mitigating Instance Entanglement in Instance Dependent Partial Label Learning.](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Mitigating_Instance_Entanglement_in_Instance-Dependent_Partial_Label_Learning_CVPR_2026_paper.html)[<span style="color: red;">Highlight</span>].[[Code]](https://github.com/RyanZhaoIc/CAD)
   - Rui Zhao, Bin Shi, Kai Sun, Bo Dong.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'26**)*, 2026.
 
